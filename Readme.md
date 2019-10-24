@@ -2,3 +2,6 @@ Queue is a linear data structure where the first element is inserted from one en
 In the queue only two operations are allowed enqueue and dequeue.
 Examples:Railways ticket line.
          Cinema Hall enter also example of Queue  
+
+and many more is example is in real life.
+queue work fifo principle
